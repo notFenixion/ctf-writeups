@@ -1,10 +1,10 @@
 
-#Decompile Me
+# Decompile Me
 
 
 
 
-##1. Decompiling The File
+## 1. Decompiling The File
 
 Using [decompyle3](https://github.com/rocky/python-decompile3), we can decompile decompile-me.pyc, and obtain the following:
 
@@ -28,7 +28,7 @@ with open('output.txt', 'wb') as f:
 ```
 
 
-##2. Reverse all the XORs
+## 2. Reverse all the XORs
 
 The output given is **^@l6l;t54L6^?>-"|<^]@bQJ=m>c~?**
 
