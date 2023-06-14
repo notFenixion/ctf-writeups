@@ -30,11 +30,10 @@ with open('output.txt', 'wb') as f:
 
 ## 2. Reverse all the XORs
 
-The output given is **^@l6l;t54L6^?>-"|<^]@bQJ=m>c~?**
+The output given is:
+```^@l6l;t54L6^?>-"|<^]@bQJ=m>c~?```
 
-Notice that a,b and c should all be the same length.
-
-Hence, a,b,c are simply the 1st 1/3, 2nd 1/3 and 3rd 1/3 of the output respectively.
+Notice that a,b,c should all be the same length. Hence we can divide the output into thirds to obtain a,b,c.
 
 We can reverse all the XOR operations in the decompiled code to obtain the flag.
 
