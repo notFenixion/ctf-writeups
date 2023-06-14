@@ -33,10 +33,10 @@ with open('output.txt', 'wb') as f:
 The output given is **^@l6l;t54L6^?>-"|<^]@bQJ=m>c~?**
 
 Notice that a,b and c should all be the same length.
+
 Hence, a,b,c are simply the 1st 1/3, 2nd 1/3 and 3rd 1/3 of the output respectively.
 
-Using the property that A^A = 0 and A^0 = A,
-We can reverse all the XOR operations in the decompiled code.
+We can reverse all the XOR operations in the decompiled code to obtain the flag.
 
 ```
 from pwn import xor
