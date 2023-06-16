@@ -5,8 +5,7 @@
 
 For this challenge, we need to find 3 different pieces hidden in different places.
 
-The following steps are ordered by difficulty (in my opinion)
-
+The following pieces are ordered by difficulty (in my opinion)
 
 <br/><br/>
 
