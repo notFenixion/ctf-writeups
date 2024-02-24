@@ -1,7 +1,5 @@
 # WOSINT my beloved
 
-### You can find the link to the server here (idk if it still works): [http://chal.gryphons.sg:4007](http://chal.gryphons.sg:4007) 
-<br/>
 
 For this challenge, we need to find 3 different pieces hidden in different places.
 
