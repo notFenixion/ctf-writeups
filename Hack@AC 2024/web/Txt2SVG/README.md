@@ -11,7 +11,7 @@ In this challenge, we are met with the following website:
 ![alt text](image.png)
 
 
-Looking through the files provided, we find the Flask code and the code used for the SVG generator.
+Looking through the files provided, we find the Flask code and the code used for the SVG generator. <b>(FULL CODES IS ALSO UPLOADED IN THE SAME DIRECTORY)</b>
 
 ### Flask Code
 ![alt text](image-1.png)
@@ -38,13 +38,13 @@ Looking at the formatting used in the SVG generator, we find that the only place
 
 
 ## Demo
-### Our Input:
+### Our Input Parameters:
 ![alt text](image-4.png)
 
-### Flag Output 
+### Flag Output (use inspect element to read)
 ![alt text](image-5.png)
 
-<b>Our final flag is `ACSI{t8rns_0ut_th3_SVG_XML_1s_p4rsed}`.</b>
+### <b>Our final flag is `ACSI{t8rns_0ut_th3_SVG_XML_1s_p4rsed}`.</b>
 
 
 
