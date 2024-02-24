@@ -8,20 +8,20 @@ I made a webapp which can convert your text into a styled svg picture, but for s
 ## The Challenge
 In this challenge, we are met with the following website:
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 
 Looking through the files provided, we find the Flask code and the code used for the SVG generator. <b>(FULL CODES IS ALSO UPLOADED IN THE SAME DIRECTORY)</b>
 
 ### Flask Code
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 ### SVG Generator
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 
 Let us focus on this snippet of code:
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 We notice that the reason the comments aren't appearing in the final result because it is being executed as a comment. However this also means that we can execute whatever code we want using the comment box! But what code can we use...?
 
@@ -39,10 +39,10 @@ Looking at the formatting used in the SVG generator, we find that the only place
 
 ## Demo
 ### Our Input Parameters:
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 ### Flag Output (use inspect element to read)
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 ### <b>Our final flag is `ACSI{t8rns_0ut_th3_SVG_XML_1s_p4rsed}`.</b>
 
