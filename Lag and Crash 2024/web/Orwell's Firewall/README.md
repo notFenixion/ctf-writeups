@@ -73,8 +73,9 @@ But that's not important - what's important is the url:
 After some searching for an exploit, I realise that this is...
 ### SSTI :0000
 
-![alt text](image-7.png)
 ![alt text](image-6.png)
+
+![alt text](image-7.png)
 
 As you can see, using `{{5*5}}` as our parameter value actually compiled to produce 25. So we can use this as our starting point for the final solution.
 
