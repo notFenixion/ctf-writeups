@@ -2,6 +2,8 @@
 - [aperisolve.com](aperisolve.com) (ESSENTIAL all-in-one image analyzer, has binwalk, steghide, exiftool, etc.)
 - [hexed.it](hexed.it) (useful hex editor)
 - [List of File Signatures/Headers](https://en.wikipedia.org/wiki/List_of_file_signatures)
+- [Acropalypse](https://acropalypse.app/) (used for restoring cropped images. a bit trial and error)
+- 
 
 ## Useful Libraries/Modules
 - binwalk (useful for finding hidden files)
